@@ -19,7 +19,7 @@ There are more than 600,000 flights in the month of January itself throughout th
 ### **FEATURES DESCRIPTION :-**
 
 1. **DAY_OF_MONTH :**  Day of Month
-2. **DAY_OF_WEEK :**  Day of Week starting from Monday
+2. **DAY_OF_WEEK  :**  Day of Week starting from Monday
 3. **REPORTING AIRLINE :**  Unique Carrier Code. When the same code has been used by multiple carriers, a numeric suffix is used for earlier users
 4. **DOT_ID_REPORTING_AIRLINE :**  An identification number assigned by US DOT to identify a unique airline (carrier)
 5. **IATA_REPORTING_AIRLINE :**  Code assigned by IATA and commonly used to identify a carrier. As the same code may have been assigned to different carriers over time, the code is not always unique.
