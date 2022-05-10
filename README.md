@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction**
 
 There are more than 600,000 flights in the month of January itself throughout the United States.
 
-### **FEATURES DESCRIPTION :-**
+### ***Features Description :-***
 
 1. **DAY_OF_MONTH :**  Day of Month
 2. **DAY_OF_WEEK  :**  Day of Week starting from Monday
